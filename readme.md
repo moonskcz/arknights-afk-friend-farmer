@@ -15,6 +15,7 @@ I just copy pasted the info from the app. too lazy to clean it up
             Console.WriteLine("this app simulates real user input and doesnt modify any game data");
             Console.WriteLine("its really just a complex timer that moves and clicks your mouse");
             Console.WriteLine("");
+            Console.WriteLine("Apparently you can get banned, hey who knew");
             
             
             
